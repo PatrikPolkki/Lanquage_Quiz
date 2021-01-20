@@ -1,8 +1,7 @@
-AndroidTrivia - final solution code
+Language Quiz
 ===================================
 
-This app is the solution code for Android Kotlin Fundamentals codelab 3.3:
-Invoke an external activity.
+
 
 Introduction
 ------------
